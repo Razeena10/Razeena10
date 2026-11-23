@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Razeena Nishad 👋
 
-<!--
-**Razeena10/Razeena10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Automation Developer | Python | Java | Machine Learning
 
-Here are some ideas to get you started:
+Computer Science graduate passionate about building intelligent applications, AI-powered solutions, and reliable software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving real-world problems through software engineering, machine learning, AI agents, and automation.
+
+---
+
+### 🚀 About Me
+
+- 💻 Interested in AI/ML Engineering and Software Development.
+- 🤖 Building and evaluating intelligent AI agents.
+- 🧠 Exploring Responsible AI, fairness, and model evaluation.
+- ⚙️ Working on MLOps, automation, and reproducible ML workflows.
+- ☁️ Currently learning AWS and cloud technologies.
+- 🌱 Continuously learning and building practical projects.
+
+### 🛠️ Technical Skills
+
+**Languages**
+
+Python · Java · JavaScript · SQL
+
+**AI & Machine Learning**
+
+Scikit-learn · MLflow · Machine Learning · Model Evaluation · Gymnasium
+
+**Web Development**
+
+React · Next.js · Node.js · Express.js · HTML · CSS
+
+**Databases**
+
+MySQL · MongoDB
+
+**Tools**
+
+Git · GitHub · Pytest · VS Code
+
+**Cloud**
+
+AWS (Learning)
+
+### 🌟 Featured Projects
+
+| Project | Technologies |
+|---|---|
+| ML Model Tracker | Python, Scikit-learn, MLflow |
+| Model Version Monitor | Python, MLflow, Model Evaluation |
+| Multi-turn Agent Gym | Python, Gymnasium, AI Agents |
+| Responsible AI Evaluations | Python, Pytest, Fairness Evaluation |
+| ML Workflow Orchestration | Python, Kubeflow Pipelines |
+
+### 📚 Currently Learning
+
+- Advanced Machine Learning
+- AI Agent Development
+- MLOps and Model Deployment
+- Responsible AI Engineering
+- Cloud Computing with AWS
+
+### 🤝 Connect With Me
+
+- GitHub: [@Razeena10](https://github.com/Razeena10)
+- LinkedIn: Coming soon
+
+---
+
+⭐ *Building, learning, and improving one project at a time.*
