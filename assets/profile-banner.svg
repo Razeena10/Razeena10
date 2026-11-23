@@ -20,7 +20,7 @@
     <circle cx="160" cy="60" r="5" fill="#38bdf8"/>
     <circle cx="1050" cy="65" r="5" fill="#38bdf8"/>
   </g>
-  <text x="600" y="112" fill="#ffffff" font-size="57" font-family="Arial,sans-serif" font-weight="bold" text-anchor="middle">Razeena Nishad</text>
+  <text x="600" y="112" fill="#ffffff" font-size="57" font-family="Arial,sans-serif" font-weight="bold" text-anchor="middle">MD Razeena Nishad</text>
   <rect x="390" y="137" width="420" height="3" rx="2" fill="url(#accent)"/>
   <text x="600" y="185" fill="#dbeafe" font-size="29" font-family="Arial,sans-serif" text-anchor="middle">AI &amp; Automation Developer</text>
   <text x="600" y="230" fill="#93c5fd" font-size="21" font-family="Arial,sans-serif" text-anchor="middle">Python  •  Java  •  Machine Learning  •  Full Stack</text>
