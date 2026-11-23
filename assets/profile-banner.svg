@@ -1,0 +1,28 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07152e"/>
+      <stop offset="55%" stop-color="#102c58"/>
+      <stop offset="100%" stop-color="#25104b"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <g stroke="#38bdf8" opacity=".3" fill="none" stroke-width="2">
+    <path d="M0 60 H160 L210 110 H300"/>
+    <path d="M0 100 H100 L150 150 H260"/>
+    <path d="M1200 65 H1050 L1000 115 H900"/>
+    <path d="M1200 120 H1100 L1050 170 H950"/>
+    <circle cx="160" cy="60" r="5" fill="#38bdf8"/>
+    <circle cx="1050" cy="65" r="5" fill="#38bdf8"/>
+  </g>
+  <text x="600" y="112" fill="#ffffff" font-size="57" font-family="Arial,sans-serif" font-weight="bold" text-anchor="middle">Razeena Nishad</text>
+  <rect x="390" y="137" width="420" height="3" rx="2" fill="url(#accent)"/>
+  <text x="600" y="185" fill="#dbeafe" font-size="29" font-family="Arial,sans-serif" text-anchor="middle">AI &amp; Automation Developer</text>
+  <text x="600" y="230" fill="#93c5fd" font-size="21" font-family="Arial,sans-serif" text-anchor="middle">Python  •  Java  •  Machine Learning  •  Full Stack</text>
+  <text x="600" y="270" fill="#c4b5fd" font-size="17" font-family="Arial,sans-serif" text-anchor="middle">BUILD  •  LEARN  •  INNOVATE</text>
+</svg>
