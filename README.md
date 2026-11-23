@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Razeena Nishad - AI and Automation Developer"/>
+</p>
+
 # Hi, I'm Razeena Nishad 👋
 
 ### AI & Automation Developer | Python | Java | Machine Learning
